@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liviabruzi
 - 👀 I’m interested in learning about developer front-end 
-- 🌱 I’m currently learning ... UI UX, CSS and javascript
+- 🌱 I’m currently learning HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on with my creative design
 - 📫 How to reach me bruziguessi@gmail.com or +351 933624776
 
